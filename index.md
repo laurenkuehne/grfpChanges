@@ -23,7 +23,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 </style>
 
 <div class="center-text">
-
+<br>
 <em>Share this page on Social Media</em>:
 
 <!-- Load Font Awesome (via CDN) -->
@@ -48,7 +48,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
 </a>
-
+<br>
 </div>
 
 ----
