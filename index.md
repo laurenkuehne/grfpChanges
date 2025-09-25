@@ -48,9 +48,6 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 </div>
 
-
-
-
 ----
 
 ## Take action
@@ -59,7 +56,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
  - [Share your story](https://jasonjwilliamsny.github.io/grfp2025/#share-your-story)
  - [Join the mailing list](https://jasonjwilliamsny.github.io/grfp2025/#join-the-mailing-list)
 
-### Sign and comment
+### Sign the letter and comment
 
 If you agree with the sentiment of this letter, please sign and consider leaving a comment about the importance of the GRFP and impacts of the current uncertainty on you.
 
