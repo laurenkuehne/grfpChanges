@@ -20,14 +20,9 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ## Take action
 
-## Sign and comment
+### Share your story
 
-If you agree with the sentiment of this letter. Please sign and consider leaving a comment about the importance of the GFRP and impacts of the current uncertainty.
-
-<!-- Bravenet Embedded Service Code -->
-<script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
-
-## Join the mailing list
+### Join the mailing list
 
 Since we anticipate updates and further actions regarding the 2025 GRFP, please add your name and email if you wish to be informed about additional community responses for the 2025 program. Your email will not be shared. **Note**: Updates do not communicate official NSF news about GRFP, continue to rely on NSF updates for official news on the program.
 
@@ -114,6 +109,9 @@ Since we anticipate updates and further actions regarding the 2025 GRFP, please 
   </div>
   <!-- End Bravenet.com Service Code -->
 
-## Share your story
+  ### Sign and comment
 
-Text
+  If you agree with the sentiment of this letter. Please sign and consider leaving a comment about the importance of the GFRP and impacts of the current uncertainty.
+
+  <!-- Bravenet Embedded Service Code -->
+  <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
