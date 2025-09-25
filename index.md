@@ -26,7 +26,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ### Sign and comment
 
-If you agree with the sentiment of this letter. Please sign and consider leaving a comment about the importance of the GFRP and impacts of the current uncertainty.
+If you agree with the sentiment of this letter. Please sign and comment below about the importance of the GFRP and impacts of the current uncertainty.
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
@@ -34,10 +34,13 @@ If you agree with the sentiment of this letter. Please sign and consider leaving
 
 ### Share your story
 
-**2025 Applicants and advisors**
+[<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/sharer/sharer.php?u=https%3A//jasonjwilliamsny.github.io/grfp2025/)
 
+**2025 Applicants and advisors**
 Call or email your congressional representatives to share your story and the personal impacts to yourself. You can look up your [House Representative and Senators](https://www.usa.gov/elected-officials); phone calls are usually best, especially for time-sensitive issues, but emails/web forms are good too.
 
+**Past GRFP fellows and applicants**
+Share with social media—how would the current situation have impacted your career? Why does funding graduate research students matter?
 
 ### Join the mailing list
 
