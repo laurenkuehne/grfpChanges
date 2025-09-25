@@ -34,7 +34,9 @@ If you agree with the sentiment of this letter. Please sign and comment below ab
 
 ### Share your story
 
-[<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/sharer/sharer.php?u=https%3A//jasonjwilliamsny.github.io/grfp2025/)
+<a href="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-facebook"></i>
+</a>
 
 **2025 Applicants and advisors**
 Call or email your congressional representatives to share your story and the personal impacts to yourself. You can look up your [House Representative and Senators](https://www.usa.gov/elected-officials); phone calls are usually best, especially for time-sensitive issues, but emails/web forms are good too.
