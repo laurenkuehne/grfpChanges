@@ -25,13 +25,22 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 />
 
 <!-- Example: Linked Font Awesome icon -->
+<a href="https://bsky.app/intent/compose?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+ <i class="fa-brands fa-bluesky"></i>
+</a>
 <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-facebook"></i>
 </a>
 <a href="https://twitter.com/intent/tweet?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-linkedin"></i>
+</a>
 </div>
+
+
+
 
 ----
 
