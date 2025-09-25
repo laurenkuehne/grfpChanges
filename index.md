@@ -15,7 +15,8 @@ Despite these unfortunate circumstances, everyone committed to the success of U.
 We call on decision-makers to provide clarity and extend flexibility so that whatever process emerges remains true to the merit-based standards that have guided NSF since 1952 in selecting fellows who go on to make extraordinary contributions to research and society across every STEM field. We also call on all who care about U.S. leadership in science and technology to scrutinize the forthcoming solicitation closely and—in the best spirit of scientific collaboration—hold every party accountable for how we meet the profound responsibility of selecting and supporting those whose careers will shape the future of U.S. science, technology, and prosperity.
 
 ----
-<center>**Share this on Social Media**</center>
+<div class="centered-div">
+**Share this on Social Media**
 
 <!-- Load Font Awesome (via CDN) -->
 <link
@@ -30,7 +31,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 <a href="https://twitter.com/intent/tweet?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>
-
+    </div>
 
 ----
 

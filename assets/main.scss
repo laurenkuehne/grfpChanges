@@ -2,3 +2,15 @@
 body {
       font-family: "Times New Roman", Times, serif;
 }
+.centered-div {
+            width: 300px;
+            height: 200px;
+            background-color: #28a745;
+            color: white;
+            display: flex; /* Optional: for centering content *inside* the div */
+            justify-content: center;
+            align-items: center;
+            font-size: 1.5em;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
