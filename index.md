@@ -31,7 +31,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 <a href="https://twitter.com/intent/tweet?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>
-    </div>
+</div>
 
 ----
 
