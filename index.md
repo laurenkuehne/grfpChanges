@@ -34,6 +34,11 @@ If you agree with the sentiment of this letter. Please sign and consider leaving
 
 ### Share your story
 
+**2025 Applicants and advisors**
+
+Call or email your congressional representatives to share your story and the personal impacts to yourself. You can look up your [House Representative and Senators](https://www.usa.gov/elected-officials); phone calls are usually best, especially for time-sensitive issues, but emails/web forms are good too.
+
+
 ### Join the mailing list
 
 Since we anticipate updates and further actions regarding the 2025 GRFP, please add your name and email if you wish to be informed about additional community responses for the 2025 program. Your email will not be shared. **Note**: Updates do not communicate official NSF news about GRFP, continue to rely on NSF updates for official news on the program.
