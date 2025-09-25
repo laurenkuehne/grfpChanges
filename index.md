@@ -20,6 +20,18 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ## Take action
 
+ - [Sign and comment](https://jasonjwilliamsny.github.io/grfp2025/#sign-and-comment)
+ - [Share your story](https://jasonjwilliamsny.github.io/grfp2025/#share-your-story)
+ - [Join the mailing list](https://jasonjwilliamsny.github.io/grfp2025/#join-the-mailing-list)
+
+### Sign and comment
+
+If you agree with the sentiment of this letter. Please sign and consider leaving a comment about the importance of the GFRP and impacts of the current uncertainty.
+
+<!-- Bravenet Embedded Service Code -->
+<script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
+
+
 ### Share your story
 
 ### Join the mailing list
@@ -109,10 +121,3 @@ Since we anticipate updates and further actions regarding the 2025 GRFP, please 
   </div>
   `
   <!-- End Bravenet.com Service Code -->
-
-  ### Sign and comment
-
-  If you agree with the sentiment of this letter. Please sign and consider leaving a comment about the importance of the GFRP and impacts of the current uncertainty.
-
-  <!-- Bravenet Embedded Service Code -->
-  <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
