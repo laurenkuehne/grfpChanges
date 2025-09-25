@@ -24,7 +24,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 <div class="center-text">
 
-**Share this on Social Media**
+<em>Share this page on Social Media</em>:
 
 <!-- Load Font Awesome (via CDN) -->
 <link
