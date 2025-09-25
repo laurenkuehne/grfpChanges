@@ -34,7 +34,14 @@ If you agree with the sentiment of this letter. Please sign and comment below ab
 
 ### Share your story
 
-<a href="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" target="_blank" rel="noopener noreferrer">
+<!-- Load Font Awesome (via CDN) -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+/>
+
+<!-- Example: Linked Font Awesome icon -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-facebook"></i>
 </a>
 
