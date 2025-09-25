@@ -16,6 +16,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ----
 <div class="centered-div">
+
 **Share this on Social Media**
 
 <!-- Load Font Awesome (via CDN) -->
@@ -37,6 +38,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
 </a>
+
 </div>
 
 
@@ -52,7 +54,7 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ### Sign and comment
 
-If you agree with the sentiment of this letter. Please sign and comment below about the importance of the GFRP and impacts of the current uncertainty.
+If you agree with the sentiment of this letter, please sign and consider leaving a comment about the importance of the GRFP and impacts of the current uncertainty on you.
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
