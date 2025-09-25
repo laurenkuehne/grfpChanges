@@ -15,7 +15,7 @@ If you agree with the sentiment of this letter. Please sign and consider leaving
 
 ### Mailing list
 
-Since we anticipate updates and further actions regarding the 2025 GRFP, please add your name and email if you wish to be informed about additional community responses for the 2025 program. **Note**: Updates do not communicate official NSF news about GRFP, continue to rely on NSF updates for official news on the program. 
+Since we anticipate updates and further actions regarding the 2025 GRFP, please add your name and email if you wish to be informed about additional community responses for the 2025 program. Your email will not be shared. **Note**: Updates do not communicate official NSF news about GRFP, continue to rely on NSF updates for official news on the program. 
 
 
 <!-- Start Bravenet.com Service Code -->
