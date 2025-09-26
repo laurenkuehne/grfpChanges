@@ -19,9 +19,11 @@ We find most concerning that second-year students are no longer eligible. Studen
 
 We are also concerned about the bias in awards toward a very few fields of study. Especially given NSF’s intent to focus on early-career students, it is critical to encourage high-potential applicants from all fields of study that NSF supports. See: [Prestigious NSF graduate fellowship tilts toward AI and quantum](https://www.science.org/content/article/prestigious-nsf-graduate-fellowship-tilts-toward-ai-and-quantum ).
 
-**Please do continue to sign and share your stories!** 
+**Please do continue to sign and share your stories!**
 
 ----
+<br>
+<br>
 
 
 **To the National Science Foundation, the National Science Board, the White House Office of Science and Technology Policy, Members of Congress, Researchers, and U.S. STEM Educators**
