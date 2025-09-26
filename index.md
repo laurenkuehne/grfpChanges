@@ -2,7 +2,7 @@
 
 
 ----
-**Update (September 26)**: The GRFP solicitation is out as of Fri 9/26 (See: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation)
+**Update (September 26)**: The GRFP solicitation is out as of Fri 9/26 (See: [https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation))
 
 Urgent updates:
 
