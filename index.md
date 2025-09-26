@@ -1,5 +1,29 @@
 *September 25, 2025*
 
+
+----
+**Update (September 26)**: The GRFP solicitation is out as of Fri 9/26 (See: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation)
+
+Urgent updates:
+
+- Updated due dates (Nov 10-14).
+- Second year graduate students are not eligible. This disadvantages
+    - All those who delayed applying last year as first-year students, expecting to apply now
+    - Those who withdrew their applications due to missing letters with the expectation of applying this year
+    - All first-year students for whom this is now their ONLY chance to apply. Having only 6 weeks is quite a race to put together a compelling application.
+- No estimated number of awards is given.
+- As with last year, recommendation letters are due BEFORE the application (start your application in Research.gov early so the letter writers will receive their links).
+- The 3 paragraphs on broadening participation were removed.
+
+We find most concerning that second-year students are no longer eligible. Students are already sharing the impact this has on them (see posts on [Reddit](https://www.reddit.com/r/GRFPApps/comments/1nr4xr1/2nd_year_phd_students_no_longer_eligible/), and [BlueSky](https://bsky.app/profile/susanelise.bsky.social/post/3lzqystktq222)).
+
+We are also concerned about the bias in awards toward a very few fields of study. Especially given NSF’s intent to focus on early-career students, it is critical to encourage high-potential applicants from all fields of study that NSF supports. See: [Prestigious NSF graduate fellowship tilts toward AI and quantum](https://www.science.org/content/article/prestigious-nsf-graduate-fellowship-tilts-toward-ai-and-quantum ).
+
+**Please do continue to sign and share your stories!** 
+
+----
+
+
 **To the National Science Foundation, the National Science Board, the White House Office of Science and Technology Policy, Members of Congress, Researchers, and U.S. STEM Educators**
 
 Since 1952, the U.S. National Science Foundation has nurtured the nation’s brightest homegrown research talent via the Graduate Research Fellowship Program (GRFP). Each year, the program’s support enables high-potential graduate students to dedicate themselves fully to developing scientific and technological breakthroughs that benefit society —innovations that create new industries, safeguard against emerging threats, and improve quality of life. The program’s impact is undeniable: among its alumni are 50 Nobel laureates and thousands of today’s science and engineering leaders—a testament to GRFP’s unparalleled success.
