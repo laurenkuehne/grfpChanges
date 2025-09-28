@@ -20,7 +20,7 @@ When changes to eligibility were last made in 2016, allowing students only one c
 
 We urge NSF to reverse this needlessly abrupt change in eligibility for the current competition (so that graduate students who have not yet applied will be grandfathered in this year), and to implement any needed future changes with appropriate notice, and after soliciting input from the STEM community.
 
-**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy Yoder, an Associate Professor in the Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). [![DOI](https://zenodo.org/badge/1064081943.svg)](https://doi.org/10.5281/zenodo.17204140)
+**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy Yoder, Associate Professor in the Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). [![DOI](https://zenodo.org/badge/1064081943.svg)](https://doi.org/10.5281/zenodo.17204140)
 
 ----
 
