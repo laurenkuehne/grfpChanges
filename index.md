@@ -2,45 +2,27 @@
 
 
 ----
-**Update (September 26)**: The GRFP solicitation is out as of Fri 9/26 (See: [https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation))
-
-Urgent updates:
-
-- Updated due dates (Nov 10-14).
-- Second year graduate students are not eligible. This disadvantages
-    - All those who delayed applying last year as first-year students, expecting to apply now
-    - Those who withdrew their applications due to missing letters with the expectation of applying this year
-    - All first-year students for whom this is now their ONLY chance to apply. Having only 6 weeks is quite a race to put together a compelling application.
-- No estimated number of awards is given.
-- As with last year, recommendation letters are due BEFORE the application (start your application in Research.gov early so the letter writers will receive their links).
-- The 3 paragraphs on broadening participation were removed.
-
-We find most concerning that second-year students are no longer eligible. Students are already sharing the impact this has on them (see posts on [Reddit](https://www.reddit.com/r/GRFPApps/comments/1nr4xr1/2nd_year_phd_students_no_longer_eligible/), and [BlueSky](https://bsky.app/profile/susanelise.bsky.social/post/3lzqystktq222)).
-
-We are also concerned about the bias in awards toward a very few fields of study. Especially given NSF’s intent to focus on early-career students, it is critical to encourage high-potential applicants from all fields of study that NSF supports. See: [Prestigious NSF graduate fellowship tilts toward AI and quantum](https://www.science.org/content/article/prestigious-nsf-graduate-fellowship-tilts-toward-ai-and-quantum ).
-
-**Please do continue to sign and share your stories!**
+**Note on related letter, prior to GRFP solicitation**: This petition is related a previous open letter about general lack of clarity on the NSF GRFP program in 2025 (See: [https://jasonjwilliamsny.github.io/grfp2025/](https://jasonjwilliamsny.github.io/grfp2025/)). In this current petition, we focus more narrowly on and request reversal of the changes in eligilibity that have suddenly disenfranchised and passed over thousands of graduate students.
 
 ----
 <br>
 <br>
 
 
-**To the National Science Foundation, the National Science Board, the White House Office of Science and Technology Policy, Members of Congress, Researchers, and U.S. STEM Educators**
+**To Brian Stone, Micah Cheatham, and Simon Malcomber, National Science Foundation; Michael Kratsios, White House Office of Science and Technology Policy; Victor R. McCrary and Joan Ferrini-Mundy, National Science Board**
 
-Since 1952, the U.S. National Science Foundation has nurtured the nation’s brightest homegrown research talent via the Graduate Research Fellowship Program (GRFP). Each year, the program’s support enables high-potential graduate students to dedicate themselves fully to developing scientific and technological breakthroughs that benefit society —innovations that create new industries, safeguard against emerging threats, and improve quality of life. The program’s impact is undeniable: among its alumni are 50 Nobel laureates and thousands of today’s science and engineering leaders—a testament to GRFP’s unparalleled success.
+We in the scientific community have been blindsided by the changes to eligibility for this year’s NSF’s Graduate Research Fellowship Program competition, announced in today’s solicitation, NSF 25-547. For the past months, the U.S.’s most high-potential early-career STEM students have been preparing their applications in anticipation of competing for a GRFP award within their limited window of eligibility. At the same time, they have been anxiously awaiting guidance from a GRFP solicitation that was extraordinarily late. With the new solicitation, GRFP is breaking its promise to future leaders of the U.S. STEM workforce. Here are the impacts of the changes to eligibility:
 
-It is shocking, therefore, that at the very moment when these promising students should be stepping onto the starting line of their research careers, that line has vanished.
+Many second-year graduate students did not apply last year because they trusted GRFP’s guidance that they would be able to apply once during their first or second year — a rule that has been in place for the last decade. The change will disproportionately impact those who were undergraduates at small colleges and under-resourced institutions that could not provide them with significant research experience, especially in NSF’s “priority fields”; this is why they waited until they were farther along in their training.
+First-year graduate students who were missing a letter of reference last year were told in last year’s NSF 24-591: “Applications withdrawn by November 15 of the application year do not count toward the one-time graduate application limit.” Those who withdrew their applications did so with the expectation of  preserving their eligibility for this year. 
+Many first-year graduate students had planned to delay applying to next year; now they will be ineligible then. For such students, putting together competitive applications and recruiting letter writers for this year’s competition will be a sprint, if not infeasible.
+The solicitation also states: “In FY2026, Clinical Psychology graduate degree programs are not eligible for NSF GRFP.” Applicants enrolled in such programs have long been eligible if they are doing basic research. GRFP’s longstanding policy has been that a fellow’s field of study does not need to match the name of their program. Changing this policy for only one group of STEM students is grossly unfair. Although fewer students are impacted by this change than the previous three, most of those impacted are women.
 
-Weeks ago, the NSF asked the impossible—posting application deadlines without providing a way to apply and without issuing an official solicitation or guidelines (see: [https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program)). The announcement includes no clarity on eligibility, no information about reference letter deadlines, and no guidance on the rumored changes that thousands of graduate students—and the mentors who support them—have been anxiously speculating about for weeks. In previous years, this information was made public at least 90 days before the October deadlines, as required by the very first paragraph of [NSF Policy](https://www.nsf.gov/funding/overview).
+When changes to eligibility were last made in 2016, allowing students only one chance (rather than two) to apply after enrolling in graduate school, the change was implemented carefully; a Dear Colleague Letter signed by Assistant EHR Director Joan Ferrini-Mundy (DCL 16-050) was issued with over 7 months’ notice to the community. This allowed students to plan the timing of their applications carefully so that no one was disadvantaged. This year’s sudden shift in policy risks losing a two-year cohort of scientific talent and discourages the very students NSF purports to recruit into STEM. It runs counter to the spirit of the NSF Act of 1950 which specifically established fellowships for broad topics in science training, as well as the 2010 America Competes Act which directs NSF to prepare students for preparation in diverse careers.
 
-With only a month remaining before the posted deadlines, students are being asked to begin their research careers in the dark. Competitive GRFP applications often take months to prepare, and the absence of clear guidance places all of that effort at risk. Worse still, because students may apply only at the start of their graduate studies, missing this year’s application window would deprive entire cohorts of the opportunity—an outcome that harms not only the students themselves but cheats the nation, through the loss of future talent.
+We urge NSF to reverse this needlessly abrupt change in eligibility for the current competition (so that graduate students who have not yet applied will be grandfathered in this year), and to implement any needed future changes with appropriate notice, and after soliciting input from the STEM community.
 
-Despite these unfortunate circumstances, everyone committed to the success of U.S. science, technology, engineering, and mathematics (STEM) wants the best for these students. Those of us outside the chain of decision-making—but working on the front lines of STEM research and education—trust in the good intentions of our NSF colleagues, yet we are compelled to voice our support for the GRFP and to urge the highest vigilance in safeguarding its legacy.
-
-We call on decision-makers to provide clarity and extend flexibility so that whatever process emerges remains true to the merit-based standards that have guided NSF since 1952 in selecting fellows who go on to make extraordinary contributions to research and society across every STEM field. We also call on all who care about U.S. leadership in science and technology to scrutinize the forthcoming solicitation closely and—in the best spirit of scientific collaboration—hold every party accountable for how we meet the profound responsibility of selecting and supporting those whose careers will shape the future of U.S. science, technology, and prosperity.
-
-**Authors**: Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). [![DOI](https://zenodo.org/badge/1064081943.svg)](https://doi.org/10.5281/zenodo.17204140)
+**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy Yoder, an Associate Professor in the Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). [![DOI](https://zenodo.org/badge/1064081943.svg)](https://doi.org/10.5281/zenodo.17204140)
 
 ----
 
@@ -90,14 +72,12 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ### Sign the letter and comment
 
-If you agree with the sentiment of this letter, please sign and consider leaving a comment about the importance of the GRFP and impacts of the current uncertainty on you.
+If you support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes on yourself or those you are working with. Looking up and including your Congressional district (there is a question field for this) will help us maximize impact by summarizing and strategically contacting Congresspersons to request their urgent intervention on this issue. **Note: if you signed the previous letter, please re-sign here - there will be an option to allow us to import your comments from the prior letter**
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
 
-
 ### Share your story
-
 
 **2025 Applicants and advisors**
 Call or email your congressional representatives to share your story and the personal impacts to yourself. You can look up your [House Representative and Senators](https://www.usa.gov/elected-officials); phone calls are usually best, especially for time-sensitive issues, but emails/web forms are good too.
