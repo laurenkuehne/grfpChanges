@@ -7,7 +7,7 @@
 ----
 <br>
 
-**To Brian Stone, Micah Cheatham, and Simon Malcomber, National Science Foundation; Michael Kratsios, White House Office of Science and Technology Policy; Victor R. McCrary and Joan Ferrini-Mundy, National Science Board**
+**To: Brian Stone, Micah Cheatham, and Simon Malcomber, National Science Foundation; Michael Kratsios, White House Office of Science and Technology Policy; Victor R. McCrary and Joan Ferrini-Mundy, National Science Board**
 
 We in the scientific community have been blindsided by the changes to eligibility for this year’s NSF’s Graduate Research Fellowship Program competition, announced in today’s solicitation, NSF 25-547. For the past months, the U.S.’s most high-potential early-career STEM students have been preparing their applications in anticipation of competing for a GRFP award within their limited window of eligibility. At the same time, they have been anxiously awaiting guidance from a GRFP solicitation that was extraordinarily late. With the new solicitation, GRFP is breaking its promise to future leaders of the U.S. STEM workforce. Here are the impacts of the changes to eligibility:
 
@@ -20,7 +20,7 @@ When changes to eligibility were last made in 2016, allowing students only one c
 
 We urge NSF to reverse this needlessly abrupt change in eligibility for the current competition (so that graduate students who have not yet applied will be grandfathered in this year), and to implement any needed future changes with appropriate notice, and after soliciting input from the STEM community.
 
-**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy Yoder, Associate Professor, Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Distinguished Professor of Cognitive Science, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018) [![DOI](https://zenodo.org/badge/1064081943.svg)](https://doi.org/10.5281/zenodo.17204140)
+**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy Yoder, Associate Professor, Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Distinguished Professor of Cognitive Science, Stony Brook University; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). 
 
 ----
 
