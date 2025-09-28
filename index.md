@@ -70,7 +70,7 @@ https://laurenkuehne.github.io/grfpChanges/
 
 ### Sign the letter and comment
 
-To support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes, on yourself or those you are working with. Including your zip code will help us maximize impact by summarizing comments and strategically contacting Congresspersons in your district to request their urgent intervention on this issue. **Note: if you signed the previous letter, please re-sign here - there is an checkbox to allow us to import your comments from the prior letter**
+To support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes, on yourself or those you are working with. Including your zip code will help us maximize impact by summarizing comments and strategically contacting Congresspersons in your district. **Note: if you signed the previous letter, please re-sign here - there is an checkbox to allow us to import your comments from the prior letter**
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=288440243" type="text/javascript" charset="utf-8"></script>
