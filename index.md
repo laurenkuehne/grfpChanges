@@ -39,7 +39,7 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 />
-https://laurenkuehne.github.io/grfpChanges/
+
 <!-- Example: Linked Font Awesome icon -->
 <a href="https://bsky.app/intent/compose?text=https%3A//laurenkuehne.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
  <i class="fa-brands fa-bluesky"></i>
