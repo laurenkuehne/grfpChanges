@@ -39,21 +39,21 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 />
-
+https://laurenkuehne.github.io/grfpChanges/
 <!-- Example: Linked Font Awesome icon -->
-<a href="https://bsky.app/intent/compose?text=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
+<a href="https://bsky.app/intent/compose?text=https%3A//laurenkuehne.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
  <i class="fa-brands fa-bluesky"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//laurenkuehne.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-facebook"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/intent/tweet?text=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/intent/tweet?text=https%3A//laurenkuehne.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//laurenkuehne.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
 </a>
 
@@ -64,9 +64,9 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 
 ## Take action
 
- - [Sign and comment](https://omfishient.github.io/grfpChanges/#sign-and-comment)
- - [Share your story](https://omfishient.github.io/grfpChanges/#share-your-story)
- - [Join the mailing list](https://omfishient.github.io/grfpChanges/#join-the-mailing-list)
+ - [Sign and comment](https://laurenkuehne.github.io/grfpChanges/#sign-and-comment)
+ - [Share your story](https://laurenkuehne.github.io/grfpChanges/#share-your-story)
+ - [Join the mailing list](https://laurenkuehne.github.io/grfpChanges/#join-the-mailing-list)
 
 ### Sign the letter and comment
 
