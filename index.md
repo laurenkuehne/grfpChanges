@@ -6,8 +6,6 @@
 
 ----
 <br>
-<br>
-
 
 **To Brian Stone, Micah Cheatham, and Simon Malcomber, National Science Foundation; Michael Kratsios, White House Office of Science and Technology Policy; Victor R. McCrary and Joan Ferrini-Mundy, National Science Board**
 
@@ -43,19 +41,19 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 />
 
 <!-- Example: Linked Font Awesome icon -->
-<a href="https://bsky.app/intent/compose?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+<a href="https://bsky.app/intent/compose?text=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
  <i class="fa-brands fa-bluesky"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-facebook"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/intent/tweet?text=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/intent/tweet?text=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//jasonjwilliamsny.github.io/grfp2025/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//omfishient.github.io/grfpChanges/" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-linkedin"></i>
 </a>
 
