@@ -70,7 +70,7 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 
 ### Sign the letter and comment
 
-For maximum impact, we suggest you sign (and share a comment if you are willing) only if you are directly impacted by this year’s changes e.g. student or mentor who intended to apply this year but can’t, or planned to defer the next cycle. Including your zip code will also help us summarize and strategically contact Congresspersons in your district. **Note: if you signed the previous letter, please re-sign here - there is a field to indicate we should include your comments from the prior letter.**
+For maximum impact, we suggest you sign (and share a comment if you are willing) only if you are directly impacted by this year’s changes e.g., student or mentor who intended to apply this year but can’t, or planned to defer the next cycle. **Note: if you signed the previous letter, please re-sign here - there is a field to indicate we should include your comments from the prior letter.** Including your zip code will also help us summarize and strategically contact Congresspersons in your district. 
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=288440243" type="text/javascript" charset="utf-8"></script>
