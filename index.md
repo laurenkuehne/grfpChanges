@@ -64,9 +64,9 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 
 ## Take action
 
- - [Sign and comment](https://laurenkuehne.github.io/grfpChanges/#sign-and-comment)
- - [Share your story](https://laurenkuehne.github.io/grfpChanges/#share-your-story)
- - [Join the mailing list](https://laurenkuehne.github.io/grfpChanges/#join-the-mailing-list)
+ - [Sign and comment (if impacted by eligibility changes)](https://laurenkuehne.github.io/grfpChanges/#sign-and-comment)
+ - [Share your story (anyone that supports the GRFP)](https://laurenkuehne.github.io/grfpChanges/#share-your-story)
+ - [Join the mailing list (everyone!)](https://laurenkuehne.github.io/grfpChanges/#join-the-mailing-list)
 
 ### Sign the letter and comment
 
