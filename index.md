@@ -2,7 +2,7 @@
 
 
 ----
-**Note**: This petition is related a previous [open letter](https://jasonjwilliamsny.github.io/grfp2025/) about lack of clarity on the NSF GRFP program in 2025. In this petition, we focus more narrowly on and request reversal of the changes in eligilibity that have suddenly disenfranchised and passed over thousands of graduate students.
+**Note**: This petition is related to a previous [open letter](https://jasonjwilliamsny.github.io/grfp2025/) about lack of clarity on the NSF GRFP program this year. In this current petition, we focus more narrowly on and request reversal of the changes in eligilibity.
 
 ----
 <br>
