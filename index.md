@@ -70,9 +70,7 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 
 ### Sign the letter and comment
 
-To support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes, on yourself or those you are working with. Looking up and including your Congressional district (there is a question field for this) will help us maximize impact by summarizing comments and strategically contacting Congresspersons to request their urgent intervention on this issue. 
-<br>
-**Note: if you signed the previous letter, please re-sign here - there will be an option to allow us to import your comments from the prior letter**
+To support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes, on yourself or those you are working with. Looking up and including your Congressional district (there is a question field for this) will help us maximize impact by summarizing comments and strategically contacting Congresspersons to request their urgent intervention on this issue. **Note: if you signed the previous letter, please re-sign here - there will be an option to allow us to import your comments from the prior letter**
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
