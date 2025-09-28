@@ -1,4 +1,3 @@
-<style>
 *September 30, 2025*
 
 
@@ -27,7 +26,7 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 
 ----
 
-
+<style>
   .center-text {
     text-align: center;
   }
