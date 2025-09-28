@@ -2,7 +2,7 @@
 
 
 ----
-**Note**: This current petition is related a previous open letter about general lack of clarity on the NSF GRFP program in 2025 (See: [https://jasonjwilliamsny.github.io/grfp2025/](https://jasonjwilliamsny.github.io/grfp2025/)). In this petition, we focus more narrowly on and request reversal of the changes in eligilibity that have suddenly disenfranchised and passed over thousands of graduate students.
+**Note**: This petition is related a previous [open letter](https://jasonjwilliamsny.github.io/grfp2025/](https://jasonjwilliamsny.github.io/grfp2025/) about lack of clarity on the NSF GRFP program in 2025. In this petition, we focus more narrowly on and request reversal of the changes in eligilibity that have suddenly disenfranchised and passed over thousands of graduate students.
 
 ----
 <br>
@@ -73,7 +73,7 @@ We urge NSF to reverse this needlessly abrupt change in eligibility for the curr
 To support this letter, please sign and consider leaving a comment that shares the impact of the eligibility changes, on yourself or those you are working with. Including your zip code will help us maximize impact by summarizing comments and strategically contacting Congresspersons in your district to request their urgent intervention on this issue. **Note: if you signed the previous letter, please re-sign here - there is an checkbox to allow us to import your comments from the prior letter**
 
 <!-- Bravenet Embedded Service Code -->
-<script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
+<script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=288440243" type="text/javascript" charset="utf-8"></script>
 
 ### Share your story
 
