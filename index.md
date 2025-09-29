@@ -11,8 +11,8 @@
 
 We in the scientific community have been blindsided by the changes to eligibility for this year’s NSF’s Graduate Research Fellowship Program competition, announced on September 26 (in NSF solicitation 25-547). For the past months, U.S. early-career STEM students have been preparing their applications in anticipation of competing for a GRFP fellowship within their limited window of eligibility. At the same time, they have been awaiting guidance from a GRFP solicitation that was extraordinarily late. The changes to eligibility for this year’s competition, announced on September 26 (in NSF solicitation 25-547), are unfair to members of the applicant community:
 
-- Second-year graduate students who did not apply last year trusted GRFP’s guidance that they would be eligible to apply once during their first or second year — a policy that has been in place for the last decade.
-- First-year graduate students in 2024 who followed the guidance in NSF 24-591: “Applications withdrawn by November 15 of the application year do not count toward the one-time graduate application limit.” Students who withdrew their applications did so with the expectation of being eligible this year. 
+- Second-year graduate students who did not apply last year trusted GRFP’s guidance that they would be eligible to apply once during their first _or_ second year — a policy that has been in place for the last decade.
+- First-year graduate students in 2024 who followed the guidance in NSF 24-591: _“Applications withdrawn by November 15 of the application year do not count toward the one-time graduate application limit.”_ Students who withdrew their applications did so with the expectation of being eligible this year. 
 - First-year graduate students who planned to apply next year.  Now that they will be ineligible next year, they have a limited window of time to prepare applications, especially given the late publication of the Solicitation.
 - Returning graduate students not currently enrolled (i.e., Level 4) are no longer eligible.
 
