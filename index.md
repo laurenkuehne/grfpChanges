@@ -4,6 +4,8 @@
 ----
 **Note**: This petition is related to a previous [open letter](https://jasonjwilliamsny.github.io/grfp2025/) about lack of clarity on the GRFP this year. In this current petition, we focus more narrowly on and request reversal of the changes in eligilibity.
 
+**Update (September 30, 2025)**We have sent this petition to NSF leadership and the Office of Science and Technology Policy, with a link to show the growing list of signatories, comments and stories. The petition remains open as we work to communicate the impacts to members of Congress, so please continue to sign and share the petition with others that have been impacted.
+
 ----
 <br>
 
