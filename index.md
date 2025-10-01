@@ -22,7 +22,7 @@ When changes to eligibility were last made in March 2016, allowing students only
 
 We urge NSF to reverse the changes and make the process for this year’s applicants fair to those who were eligible based on last year’s rules. We also urge NSF to implement future changes with appropriate notice.
 
-**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy B. Yoder, Associate Professor, Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Distinguished Professor of Cognitive Science, Stony Brook University; Joshua S. Weitz, Professor of Biology and Clark Leadership Chair in Data Analytics, University of Maryland, College Park; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). 
+**Authors**: Daniel I. Bolnick. President, The American Society of Naturalists. Department of Ecology and Evolutionary Biology, University of Connecticut; Jeremy B. Yoder, Associate Professor, Department of Biology at California State University Northridge; Jason Williams, Cold Spring Harbor Laboratory; Lauren Kuehne, Omfishient Consulting; Susan E. Brennan, Distinguished Professor of Cognitive Science, Stony Brook University; Joshua S. Weitz, Professor of Biology and Clark Leadership Chair in Data Analytics, University of Maryland, College Park; Gisèle Muller-Parker, Retired NSF GRFP Lead Program Officer (2008-2018). [![DOI](https://zenodo.org/badge/1065774609.svg)](https://doi.org/10.5281/zenodo.17239535)
 
 ----
 
