@@ -6,7 +6,7 @@
 
 **Update (September 30, 2025):** We have sent this petition to NSF leadership and the Office of Science and Technology Policy, with a link to show the growing list of signatories, comments and stories. The petition remains open as we work to communicate the impacts to members of Congress, so please continue to sign and share the petition with others that have been impacted.
 
-**Update (October 17, 2025):** Ranking Members Zoe Lofgren (D-CA) and Haley Stevens (D-MI) sent a letter to NSF Acting Director Brian Stone demanding reversal of the 'cruel' changes in the GRFP. Their announcement and letter can be accessed [here(https://democrats-science.house.gov/news/press-releases/ranking-members-lofgren-and-stevens-demand-nsf-reverse-cruel-changes-to-the-2025-graduate-research-fellowship-program)]. We are continuing to collect signatures and stories, and urge those impacted to also contact their representatives and senators for help (Congressional offices are open during the shutdown).
+**Update (October 17, 2025):** Ranking Members Zoe Lofgren (D-CA) and Haley Stevens (D-MI) sent a letter to NSF Acting Director Brian Stone demanding reversal of the 'cruel' changes in the GRFP. Their announcement and letter can be accessed [here](https://democrats-science.house.gov/news/press-releases/ranking-members-lofgren-and-stevens-demand-nsf-reverse-cruel-changes-to-the-2025-graduate-research-fellowship-program). We are continuing to collect signatures and stories, and urge those impacted to also contact their representatives and senators for help (Congressional offices are open during the shutdown).
 
 ----
 <br>
