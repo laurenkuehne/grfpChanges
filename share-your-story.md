@@ -2,6 +2,7 @@
 
 ----
 **Share Your Story with Representatives and Senators**: Congressional offices are still open during the government shutdown, for you to share your challenges with the changes to the GRFP this year. Below are step-by-step instructions and tips to contact your representatives and ask them to advocate on your behalf.
+
 ----
 <br>
 
