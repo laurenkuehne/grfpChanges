@@ -5,7 +5,7 @@
 ----
 <br>
 
-1.	Find your Senators and Representatives. The Senate and House websites have tools to quickly identify who represents you in each house of Congress, with links to their individual websites. Here’s the page for Senators, and for Representatives.
+1.	Find your Senators and Representatives. The Senate and House websites have tools to quickly identify who represents you in each house of Congress, with links to their individual websites. Here’s the page for [Senators](https://www.senate.gov/senators/senators-contact.htm), and for [Representatives](https://www.house.gov/representatives/find-your-representative).
 2.	Choose your form of contact. Webpages for members of Congress have their contact information — usually a “contact form” through their website, and phone numbers for offices in Washington, DC, and in their home districts. 
 a.	If you write through a web contact form, consider composing your message in a locally stored document, then copying it into the form 
 b.	If you call, call the closest local office to you, if you can. Draft “talking points” (we’ll suggest some below) or even a full script for yourself thatyou can consult as you make the call. You may get voicemail, so aim for something you can convey in about 30 seconds — but have enough information handy that you can give a detailed response, and answer questions, if you get a staffer on the line.
